@@ -1,1 +1,0 @@
-# FrontendMenor_QRcode
