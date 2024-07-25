@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MarwaDawood/FrontendMentor_QRcode)
-- Live Site URL: [Add live site URL here](https://frontendmentor-challengeqrcode.netlify.app/)
+- Solution URL: [Code](https://github.com/MarwaDawood/FrontendMentor_QRcode)
+- Live Site URL: [Live Site](https://frontendmentor-challengeqrcode.netlify.app/)
 
 ## My process
 
@@ -34,5 +34,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor]
 
 ## Author
 
-- Website - (https://marwadawood.netlify.app/)
-- Frontend Mentor - (https://www.frontendmentor.io/profile/MarwaDawood)
+- Website - [marwadawood.netlify.app](https://marwadawood.netlify.app/)
+- Frontend Mentor - [@MarwaDawood](https://www.frontendmentor.io/profile/MarwaDawood)
